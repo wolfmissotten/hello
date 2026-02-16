@@ -2,16 +2,16 @@
 
 ## Authors
 
-- **First Last**. Author, maintainer.
+- **Wolf M**. Author, maintainer.
 
 ## Citation
 
-Last F (2026). *hello: What the Package Does (One Line, Title Case)*. R
+M W (2026). *hello: What the Package Does (One Line, Title Case)*. R
 package version 0.1.0.
 
     @Manual{,
       title = {hello: What the Package Does (One Line, Title Case)},
-      author = {First Last},
+      author = {Wolf M},
       year = {2026},
       note = {R package version 0.1.0},
     }
