@@ -24,11 +24,11 @@ library(assertthat) #niet super zeker of dit hier wel moet staan, dit is de enig
 ```
 
 ## Hello_detect_language function
-You can use the function `hello_detect_language()` to detects the language of basic greetings in English, French, Spanish, German and Italian
+You can use the function `hello_detect_language()` to detect the language of basic greetings in English, French, Spanish, German and Italian
 ```{r}
 string <- 'bonjour'
 
-example <- hello_detect_language(word = string)
+example <- hello_detect_language(greeting = string)
 
 print(example)
 ```
