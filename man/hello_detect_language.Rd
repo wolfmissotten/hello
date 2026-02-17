@@ -2,7 +2,7 @@
 % Please edit documentation in R/hello_detect_language.R
 \name{hello_detect_language}
 \alias{hello_detect_language}
-\title{Detect language}
+\title{Detects language}
 \usage{
 hello_detect_language(greeting)
 }
